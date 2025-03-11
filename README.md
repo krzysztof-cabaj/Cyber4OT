@@ -10,7 +10,8 @@ The dataset contains 96 files with more than 4,25 millions of packets.
 Detailed desription of the test bed, where data was prepared, is provided in 
 the Cyber4OT_testbed_description.pdf file.
 
-The dataset is also available from Zenodo - [doi.org/10.5281/zenodo.14217616](https://doi.org/10.5281/zenodo.14217616)
+The most recent version of dataset (currently version 1.0.3) is also available from 
+Zenodo - [doi.org/10.5281/zenodo.15005190](https://doi.org/10.5281/zenodo.15005190)
 
 # Authors
 
