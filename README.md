@@ -7,6 +7,14 @@ later disconnects legal Modbus TCP connection and performs PLC device hijacking.
 
 The dataset contains 96 files with more than 4,25 millions of packets.
 
+Detailed description of the dataset and conducted simulated attack is provided
+in the article:
+
+K. Cabaj, S. Plamowski, P, Chaber, M. Ławryńczuk, P. Marusak, R. Nebeluk, 
+A. Wojtulewicz, K. Zarzycki, Cyber4OT dataset: Network traces for cyber-security
+ vulnerability evaluation in industrial control systems, SoftwareX, Volume 31, 2025,
+ISSN 2352-7110, [doi.org/10.1016/j.softx.2025.102196](https://doi.org/10.1016/j.softx.2025.102196).
+
 Detailed description of the test bed, where data was prepared, is provided in 
 the Cyber4OT_testbed_description.pdf file.
 
